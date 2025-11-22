@@ -4,7 +4,7 @@ Your Readme is Done 🎉🎉🎉
 Star This Project
 Fork on Github
 
-<h2 align="left">👋 Olá, viajante do código! Sou o **Thiago**<br><br>🎯 **Status Atual:**<br>- 🆙 Nível: [Iniciante Determinado]<br>- 🎓 Classe: [Estudante de Dev]<br>- 🏆 Missão Atual: Cursando Técnico em Desenvolvimento de Sistemas<br>- 💼 Objetivo: Primeira oportunidade na área<br><br>🛠️ **Habilidades em Treinamento:**<br>- 🛡️  Dando os primeiros passos no Phyton<br><br> ✨ **Status:**<br>- 🎯 Determinação: 100%<br>- 📚 Curiosidade: ∞<br>- 💪 Resiliência: Carregando...<br><br>_"Todo expert foi um dia noob - e eu estou na melhor fase da jornada!"</h2>
+<h2 align="left">👋 Olá, viajante do código! Sou o **Thiago**<br><br>🎯 **Status Atual:**<br>- 🆙 Nível: [Iniciante Determinado]<br>- 🎓 Classe: [Estudante de Desenvolvimento de Sistemas]<br>- 🏆 Missão Atual: Concluir com êxito o meu curso Técnico em Desenvolvimento de Sistemas<br>- 💼 Objetivo: Alcançar a primeira oportunidade na área<br><br>🛠️ **Habilidades em Treinamento:**<br>- 🛡️  Dando os primeiros passos no Phyton<br><br> ✨ **Status:**<br>- 🎯 Determinação: 100%<br>- 📚 Curiosidade: ∞<br>- 💪 Resiliência: Carregando...<br><br>_"Todo expert foi um dia noob - e eu estou na melhor fase da jornada!"</h2>
 
 ###
 
